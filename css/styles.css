@@ -1,0 +1,31 @@
+
+body {
+  background-color: #EAF6F6;
+  font-family: cursive;
+}
+
+hr {
+  background-color: white;
+  border-style: dotted none none;
+  width: 10%;
+  border-width: 5px;
+  border-color: grey;
+}
+
+h1, h2 {
+  color: #66BFBF;
+  font-family: serif;
+}
+
+.p{
+  font-family: cursive;
+}
+
+input[type=text] {
+background-color: #3CBC8D;
+border-style: solid;
+border-color: #3cbc8d;
+color:black;
+border-radius: 12px;
+height: 30px;
+}
